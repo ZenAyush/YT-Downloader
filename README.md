@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-This script is a simple YouTube video downloader using the yt-dlp library. It allows you to download YouTube videos with custom output options.
+This script is a simple YouTube video downloader using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library. It allows you to download YouTube videos with custom output options.
 
 ## Prerequisites
 

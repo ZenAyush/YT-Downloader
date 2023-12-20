@@ -6,6 +6,7 @@ This script is a simple YouTube video downloader using the [yt-dlp](https://gith
 
 - Python 3.x
 - yt-dlp library (install using `pip install yt-dlp`)
+- subprocess
 
 ## Customization
 

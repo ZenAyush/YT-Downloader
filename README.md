@@ -9,8 +9,8 @@ This script is a simple YouTube video downloader using the [yt-dlp](https://gith
 
 ## Customization
 
-You can customize the output path by modifying the 'output_path' variable in the script.
-The script is set to download videos in mp4 or m4a format. You can customize the format by modifying the command variable in the 'download_video' function.
+You can customize the output path by modifying the **output_path** variable in the script.
+The script is set to download videos in mp4 or m4a format. You can customize the format by modifying the command variable in the **download_video** function.
 
 ## Usage
 

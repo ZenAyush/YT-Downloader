@@ -18,4 +18,4 @@ The script is set to download videos in mp4 or m4a format. You can customize the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ZenAyush/YT-Downloader
